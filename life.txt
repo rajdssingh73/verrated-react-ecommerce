@@ -1,0 +1,3 @@
+Feel free to checkout the demo of this project at
+
+https://reactkartecommerce.netlify.app/
